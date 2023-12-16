@@ -1,0 +1,61 @@
+.container-fluid{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    min-height: 100vh;
+}
+.signup-up{
+    text-align: center;
+}
+.card-ref{
+    background-color: black;
+}
+.card-ref1{
+    background-color: aqua;
+    border-radius: 10px;
+}
+/* .card{
+    box-shadow: 20px solid ;
+    border-radius: 20px;
+} */
+.btns{
+  position: relative;
+  width: 100%;
+}
+.button-1{
+    align-items: center;
+}
+.card-1{
+    background-color: aqua;
+}
+.pass{
+   text-align: center;
+}
+.card-wapper{
+    background-color: aqua;
+    border-radius: 10px;
+}
+.herf-a{
+    text-decoration: underline;
+  text-align: right;
+   
+}
+.email-link{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   color: azure;
+   background-color: blueviolet;
+
+}
+.email-link-1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   color: azure;
+   background-color: blue;
+   height: 50px;
+   text-shadow: 80px;
+
+}
