@@ -50,7 +50,7 @@ function Login() {
         <Form.Check className='mb-3' type="checkbox" label="Remember Me" >
        
        </Form.Check>
-       <a herf="#" className='herf-a'  onClick={()=>navigate('/')}>ForgetPassWord</a>
+       <a herf="#" className='herf-a'  onClick={()=>navigate('/forgetpassword')}>ForgetPassWord</a>
       </Form.Group>
      
       </div>
